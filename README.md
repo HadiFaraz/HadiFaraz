@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm Faraz Hadi
+
+Technologies I use:
+
+Frontend Technologies
+HTML5 logo CSS3 logo JavaScript logo ES6 logo D3 logo react logo
+
+Backend Technologies
+Python logo Django logo
+
+Tools
+VS Code logo Git logo
+
 <!--
 **HadiFaraz/HadiFaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
