@@ -5,13 +5,27 @@
 ## Technologies I use:
 
 ### Frontend Technologies
-HTML5 logo CSS3 logo JavaScript logo ES6 logo D3 logo react logo
+<div>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
+  <img src ="./images/d3.svg" alt="D3 logo" width="4%" title='D3.js'/>
+  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
+<div>
 
 ### Backend Technologies
-Python logo Django logo
+<div
+  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
+  <img src ="./images/django.svg" alt="Django logo" width="5%" title='Django'/>
+<div>
 
 ### Tools
-VS Code logo Git logo
+<div>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
+  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+</div>
+  
 
 <!--
 **HadiFaraz/HadiFaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
