@@ -16,7 +16,7 @@
 
 ### Backend Technologies
 <div
-  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
+  <!--<img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>-->
   <img src ="./images/django.svg" alt="Django logo" width="5%" title='Django'/>
 <div>
 
