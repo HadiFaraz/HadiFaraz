@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-##I'm Faraz Hadi
+## I'm Faraz Hadi
 
-##Technologies I use:
+## Technologies I use:
 
-Frontend Technologies
+### Frontend Technologies
 HTML5 logo CSS3 logo JavaScript logo ES6 logo D3 logo react logo
 
-Backend Technologies
+### Backend Technologies
 Python logo Django logo
 
-Tools
+### Tools
 VS Code logo Git logo
 
 <!--
